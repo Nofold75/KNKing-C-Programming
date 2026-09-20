@@ -1,6 +1,6 @@
 /* 
 Name: exo1.c
-Purpose: Program that uses print to display the following picture on the screen:
+Purpose: Program that uses printf to display the following picture on the screen:
 
          *
         *
