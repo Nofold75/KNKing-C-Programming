@@ -3,5 +3,7 @@
 int main(void)
 {
     printf("Hello, world\n");
-    return 0;
+    
+    return 0;  // Make the warning go away
 }
+    
