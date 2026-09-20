@@ -14,7 +14,7 @@ int main(void)
     printf("Please enter a dollar amount: ");
     scanf("%f", &dollar_amount_supplied);
 
-    printf("With tax added: $%.2f\n", dollar_amount_supplied * 1.05);
+    printf("With tax added: $%.2f\n", dollar_amount_supplied * 1.05f);
     
     return 0;
 }
