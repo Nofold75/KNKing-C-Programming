@@ -18,7 +18,7 @@ int main(void)
     scanf("%f", &fahrenheit);
 
     celsius = (fahrenheit - FREEZING_PT) * SCALE_FACTOR;
-    
+
     printf("Celsius equivalent: %.1f\n", celsius);
 
     return 0;
