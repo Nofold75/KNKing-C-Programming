@@ -7,7 +7,6 @@ Author: Mehdi F.
 
 #include <stdio.h>
 
-
 int main(void) 
 {
     int height = 8, length = 12, width = 10, volume = height*length*width, weight = (volume + 165)/166; 
