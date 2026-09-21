@@ -2,10 +2,10 @@
 
 C Programming: A Modern Approach. 2nd Edition. 
 
-This repo contain all the C code for the book's programming projects. The website only propose answers for around one third of all the programming projects.
-I will also use this repo to track my progression. 
+- This repo contain all the C code for the book's programming projects.  (The official website http://knking.com/books/c2/answers/ only propose answers for around one third of all the programming projects.) 
+- I will also use this repo to track my progression. 
 
-No AI used. 
+No AI used.
 
 Cheers!
 
