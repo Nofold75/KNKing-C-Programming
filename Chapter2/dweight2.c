@@ -2,7 +2,7 @@
 Name: dweight.c
 Purpose: Computes the dimensional weight of a box from input provided by the user .
 Date: 09/20/2026 
-Author: Mehdi F.
+Author: Mehdi Fadel
 */
 
 #include <stdio.h>

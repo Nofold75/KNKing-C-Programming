@@ -2,7 +2,7 @@
 Name: exo3.c
 Purpose: Update of exo2.c so that the program prompts the user to enter the radius of the sphere
 Date: 09/20/2026 
-Author: Mehdi F.
+Author: Mehdi Fadel
 */
 
 #define PIVALUE 3.1415926535f

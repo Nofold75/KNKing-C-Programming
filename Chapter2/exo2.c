@@ -2,7 +2,7 @@
 Name: exo2.c
 Purpose: Program that computes the volume of a sphere with a 10-meter radius, using the formulva v = 4/3*pi*r³
 Date: 09/20/2026 
-Author: Mehdi F.
+Author: Mehdi Fadel
 */
 
 #define PIVALUE 3.1415926535f

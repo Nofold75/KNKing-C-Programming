@@ -2,7 +2,7 @@
 Name: dweight.c
 Purpose: Computes the dimensional weight of a 12" x 10" x 8" box.
 Date: 09/20/2026 
-Author: Mehdi F.
+Author: Mehdi Fadel
 */
 
 #include <stdio.h>

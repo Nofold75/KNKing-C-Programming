@@ -2,7 +2,7 @@
 Name: pun.c
 Purpose: Display a bad pun.
 Date: 09/20/2026 
-Author: Mehdi F.
+Author: Mehdi Fadel
 */
 
 #include <stdio.h> 
