@@ -6,7 +6,7 @@ C Programming: A Modern Approach. 2nd Edition.
 - I will also use this repo to track my progression. 
 - No AI used. (I am learning!)
 
-All the C code has been compiled using gcc with '-std=c99 -Wall -Wextra -Wpedantic -Werror -g' options so it is extremely strict and will force absolutely clean C99 code (compilation is rejected at the slightest imperfection).
+All the C code has been compiled using gcc with '-std=c99 -Wall -Wextra -W -Wpedantic  -g' options so it is very strict.
 
 Cheers!
 
