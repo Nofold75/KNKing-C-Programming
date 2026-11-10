@@ -12,7 +12,7 @@ Author: Mehdi Fadel
 int main(void) 
 {
 
-    printf("%6.0f", 9.593237);
+    
     
 
     return 0;
