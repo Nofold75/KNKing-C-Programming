@@ -1,5 +1,5 @@
 /*
-Name: exo1.c
+Name: exo3.c
 Purpose: Program that breaks down an ISBN entered by the user
 Date: 11/11/2026 
 Author: Mehdi Fadel
