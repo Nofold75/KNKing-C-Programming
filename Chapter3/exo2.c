@@ -1,5 +1,5 @@
 /*
-Name: exo1.c
+Name: exo2.c
 Purpose: Program that formats product information entered by the user.
 Date: 11/10/2026 
 Author: Mehdi Fadel

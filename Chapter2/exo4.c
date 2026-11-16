@@ -2,7 +2,7 @@
 Name: exo4.c
 Purpose: Program that asks the user to enter a dollars-and-cents amount, then displays the amount with 5% tax added
 Date: 09/20/2026 
-Author: Mehdi F.
+Author: Mehdi Fadel
 */
 
 #include <stdio.h>
