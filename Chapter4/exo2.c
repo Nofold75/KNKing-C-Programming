@@ -10,13 +10,17 @@ Author: Mehdi Fadel
 int main(void)
 {
 
-    int number;
+    int number, first_digit, third_digit, second_digit;
 
-    printf("Enter a two-digit number: ");
-    scanf("%2d", &number);
+    printf("Enter a three-digit number: ");
+    scanf("%d", &number);
 
-    printf("The reversal is: %d%d \n", number%10, number/10 );
 
+    first_digit = number/100;
+    third_digit = (number%10);
+    second_digit = (number/10)%10;
+
+    printf("The reversal is: %d-%d-%d\n", third_digit , second_digit, first_digit);
 
 
     return 0;
