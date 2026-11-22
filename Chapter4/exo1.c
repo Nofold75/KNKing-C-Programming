@@ -1,7 +1,7 @@
 /*
 Name: exo1.c
 Purpose: Program that asks the user to enter a two-digit number, then prints the number with its digits reversed.
-Date: 11/14/2026 
+Date: 11/22/2026 
 Author: Mehdi Fadel
 */
 
@@ -10,7 +10,7 @@ Author: Mehdi Fadel
 int main(void)
 {
 
-    int number, first_digit, second_digit;
+    int number;
 
     printf("Enter a two-digit number: ");
     scanf("%2d", &number);
